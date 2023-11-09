@@ -1,1 +1,2 @@
 Zawartość pliki krokNr7b.txt
+dodanie zmian w pliku krokNr7b.txt
